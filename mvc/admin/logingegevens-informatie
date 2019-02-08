@@ -1,0 +1,7 @@
+user: salim
+pasw: salim
+
+Om naar admin te gaan, tijp 'http://localhost/mvc/admin/' in.
+Alles wat in de admin staat is beveiligd omwille van de .htacces en .htpasswd files.
+
+http://localhost/mvc zo ga ik naar de index.php file.
